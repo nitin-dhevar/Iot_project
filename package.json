@@ -6,7 +6,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cron": "^1.7.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongoose": "^5.5.4",
     "node-cron": "^2.0.3",
     "node-schedule": "^1.3.2",
